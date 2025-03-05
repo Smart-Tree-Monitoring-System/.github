@@ -7,7 +7,9 @@ Welcome to the **Smart Tree Monitoring System** project – an innovative soluti
 ## 🙋‍♀️ Team Members
 
 We are proud to have a dedicated team of open source enthusiasts contributing to the project.  
--Vu Gia Tue
+
+-Vu Gia Tue 
+
 -Nguyen Minh Tuan
 
 ---
